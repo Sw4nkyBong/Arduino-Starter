@@ -1,1 +1,6 @@
-tg
+Ik heb het circuit gebouwd
+Bij het bouwen van het circuit kon ik een onderdeel niet vinden.
+Ik heb met hulp van M. but het gevonden en hij zei dat ik maar niet verder moest gaan omdat dit niet echt mogelijk is met de standaard bijgeleverde onderdelen.
+
+Ik heb nog wel het programma geschreven
+
