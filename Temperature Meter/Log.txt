@@ -1,0 +1,5 @@
+Ik heb de constructie gebouwd die nodig is voor dit project op de arduino
+Daarna heb ik het script geschreven in de arduino IDE
+
+Had het eerst verkeerd gebouwd maar na aanpassing werkte het en testen zijn geslaagd.
+probleem met laatste lampje maar die zat verkeerd om in ground en V5
