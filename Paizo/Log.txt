@@ -1,0 +1,5 @@
+Ik heb het circuit gebouwd
+Daarna heb ik het programma geschreven
+
+testen bewijzen dat het werkt,
+hoe minder licht er op de photoresistor valt hoe harder en hoger de piep is.
